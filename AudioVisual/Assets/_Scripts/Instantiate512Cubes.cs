@@ -6,14 +6,14 @@ using UnityEngine;
  public class Instantiate512Cubes : MonoBehaviour
 {
    public GameObject _sampleCudePrefab;
-   GameObject[] _sampleCube = new GameObject[512];
+   GameObject[] _sampleCube = new GameObject[126];
    public float _maxScale;
 
    // Start is called before the first frame update
    void Start()
    {
 
-       for(int i = 0; i < 512; i++)
+       for(int i = 0; i < 126; i++)
        {
            GameObject _instanceSampleCube = (GameObject)Instantiate(_sampleCudePrefab);
            _instanceSampleCube.transform.position = this.transform.position;
@@ -31,7 +31,7 @@ using UnityEngine;
    void Update()
    {
 
-       for(int i = 0; i < 512; i++)
+       for(int i = 0; i < 126; i++)
        {
            if(_sampleCube != null)
            {

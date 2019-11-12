@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3322630}
   - component: {fileID: 2349622}
   - component: {fileID: 9564940}
+  - component: {fileID: 122931724694150378}
   m_Layer: 0
   m_Name: parametric-cube
   m_TagString: Untagged
@@ -97,3 +98,15 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!122 &122931724694150378
+Halo:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 129616}
+  m_Enabled: 1
+  m_Color:
+    serializedVersion: 2
+    rgba: 4292366611
+  m_Size: 2
