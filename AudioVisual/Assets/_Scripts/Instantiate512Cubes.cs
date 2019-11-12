@@ -25,21 +25,23 @@ using UnityEngine;
 
            _sampleCube[i] = _instanceSampleCube;
        }
-   }
+
+        
+    }
 
    // Update is called once per frame
    void Update()
    {
 
-       for(int i = 0; i < 126; i++)
-       {
-           if(_sampleCube != null)
-           {
-               _sampleCube[i].transform.localScale = new Vector3(10, (AudioPeer._samples[i] * _maxScale) + 2, 10);
-           }
-       }
+        for (int i = 0; i < 126; i++)
+        {
+            if (_sampleCube != null)
+            {
+                _sampleCube[i].transform.localScale = new Vector3(10, (AudioPeer._samples[i] * _maxScale) + 2, 10);
+            }
+        }
 
-   }
+    }
 
 }
 
