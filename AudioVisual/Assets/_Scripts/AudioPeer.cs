@@ -12,20 +12,22 @@ public class AudioPeer : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        //get audio source
         _audioSource = GetComponent<AudioSource>();
-
     }
 
     // Update is called once per frame
     void Update()
     {
+        //get the spectrum data from audio source
         GetSpectrumAudioSource();
         
     }
     //getting the spectrum data
     void GetSpectrumAudioSource()
     {
-        _audioSource.GetSpectrumData(_samples, 0, FFTWindow.Blackman);
+        //_audioSource.GetSpectrumData(_samples, 0, FFTWindow.Blackman);
+        _audioSource.GetSpectrumData(_samples, 0, FFTWindow.Hanning);
     }
 
     void MakeFrequencyBands()
