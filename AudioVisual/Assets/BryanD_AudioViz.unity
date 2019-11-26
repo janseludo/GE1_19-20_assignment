@@ -150,7 +150,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f2062e68424e05e42be450eca64b79d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bandwith: 10
+  bidWidth: 0
   sampleRate: 50
 --- !u!4 &578955576
 Transform:
@@ -374,8 +374,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e0df0da83033db479bc2c8fdf6589ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scale: 100
-  radius: 20
+  scale: 10
+  scale2: 10
+  radius: 5
+  radius2: 10
 --- !u!4 &1410027310
 Transform:
   m_ObjectHideFlags: 0
