@@ -24,7 +24,7 @@ public class AudioVizual : MonoBehaviour
 
         for (int i = 0; i < AudioAnalyzer.bands.Length; i++)
         {
-            Vector3 p = new Vector3(Mathf.Sin(theta * i) * radius, 0, Mathf.Cos(theta * i) * radius);
+            Vector3 p = new Vector3(Mathf.Sin(theta * i), 0, Mathf.Cos(theta * i) * radius);
             p = transform.TransformPoint(p);
             Quaternion q = Quaternion.AngleAxis(theta * i * Mathf.Rad2Deg, Vector3.up);
             q = transform.rotation * q;
@@ -73,7 +73,7 @@ public class AudioVizual : MonoBehaviour
         for(int i = 0; i < elements.Count; i++)
         {
             Vector3 ls = elements[i].transform.localScale;
-            ls.y = Mathf.Lerp(ls.y, 1 +(AudioAnalyzer.bands[i] * scale), Time.deltaTime * 3.0f);
+            ls.y = Mathf.Lerp(ls.y, 1 + (AudioAnalyzer.bands[i] * scale), Time.deltaTime * 3.0f);
             elements[i].transform.localScale = ls;
 
             

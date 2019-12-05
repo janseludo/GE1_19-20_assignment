@@ -7,6 +7,7 @@ public class Phyllotaxis : MonoBehaviour
     public float _degree, _scale;
     public int _numberStart;
     public int _stepSize;
+
     public int _maxIntegration;
 
     //Learping
@@ -17,9 +18,11 @@ public class Phyllotaxis : MonoBehaviour
     private Vector3 _startPosition, _endPosition;
     private float _timeStartedLearping;
 
+    //stepsize
     private int _number;
     private int _currentIteration;
     private TrailRenderer _trailRenderer;
+
     private Vector2 CalculatePhyllotaxis(float degree, float scale, int number)
     {
         double angle = number * (degree * Mathf.Deg2Rad);
@@ -59,6 +62,7 @@ public class Phyllotaxis : MonoBehaviour
 
     }
 
+    //
     private void FixedUpdate()
     {
         if (_useLearping)
@@ -83,9 +87,7 @@ public class Phyllotaxis : MonoBehaviour
                         _isLearping = false;
                     }
                 }
-
-            }
-            
+            } 
         }
         else
         {
