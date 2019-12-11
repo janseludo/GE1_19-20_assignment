@@ -5,12 +5,17 @@ using UnityEngine;
 
 public class _audioSync : MonoBehaviour
 {
-    public float bias;                      //what spectrum value to trigger a beat
-    public float timeStep;                  //determins the minim interval between each beat
-    public float timeToBeat;                //how much time between the visualization completes
-    public float restSmoothTime;            //how fast the object goes to rest after a beat
+    //what spectrum value to trigger a beat
+    public float bias;
+    //determins the minim interval between each beat
+    public float timeStep;
+    //how much time between the visualization completes
+    public float timeToBeat;
+    //how fast the object goes to rest after a beat
+    public float restSmoothTime;
 
-    //if the value went above or below the value during the current frame, thus triggereing a beat
+    //if the value went above or below the value 
+    //during the current frame, thus triggereing a beat
     private float m_previousAudioValue;
     private float m_audioValue;
 
@@ -28,7 +33,8 @@ public class _audioSync : MonoBehaviour
         m_isBeat = true;
     }
 
-    //subclasses to inject thier own update without completely overwriting the base class
+    //subclasses to inject thier own update
+    //without completely overwriting the base class
     public virtual void OnUpdate()
     {
         // update audio value
@@ -50,14 +56,10 @@ public class _audioSync : MonoBehaviour
             if (m_timer > timeStep)
                 OnBeat();
         }
-
         m_timer += Time.deltaTime;
     }
-
     private void Update()
     {
         OnUpdate();
     }
-
-    
 }

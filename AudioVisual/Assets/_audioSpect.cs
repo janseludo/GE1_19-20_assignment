@@ -4,27 +4,31 @@ using UnityEngine;
 
 public class _audioSpect : MonoBehaviour
 {
-    private void Update()
-    {
-        // get the data
-        AudioListener.GetSpectrumData(m_audioSpectrum, 0, FFTWindow.Hamming);
-        if (m_audioSpectrum != null && m_audioSpectrum.Length > 0)
-        {
-            spectrumValue = m_audioSpectrum[0] * 100;
-        }
-    }
-
-    private void Start()
-    {
-        //initialize buffer
-        m_audioSpectrum = new float[128];
-    }
+    // 
+    private float[] m_audioSpectrum;
+    
     // This value served to AudioSyncer for beat extraction
     public static float spectrumValue
     {
         get; private set;
     }
-    // Unity fills this up for us
-    private float[] m_audioSpectrum;
+
+    private void Update()
+    {
+        // get the data
+        AudioListener.GetSpectrumData(m_audioSpectrum, 0, FFTWindow.Blackman);
+
+        if (m_audioSpectrum != null && m_audioSpectrum.Length > 0)
+        {
+            spectrumValue = m_audioSpectrum[0] * 100;
+        }
+    }
+    private void Start()
+    {
+        //initialize buffer
+        m_audioSpectrum = new float[128];
+    }
+    
+    
 
 }

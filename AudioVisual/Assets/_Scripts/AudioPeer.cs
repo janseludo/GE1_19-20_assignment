@@ -25,9 +25,8 @@ public class AudioPeer : MonoBehaviour
     }
     //getting the spectrum data
     void GetSpectrumAudioSource()
-    {
-        //_audioSource.GetSpectrumData(_samples, 0, FFTWindow.Blackman);
-        _audioSource.GetSpectrumData(_samples, 0, FFTWindow.Hanning);
+    { 
+        _audioSource.GetSpectrumData(_samples, 0, FFTWindow.Blackman);
     }
 
     void MakeFrequencyBands()

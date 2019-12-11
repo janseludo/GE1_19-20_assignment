@@ -2,9 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class _audioObjectScaler : _audioSync {
+public class _audioObjectScaler : _audioSync
+{
+    public Vector3 beatScale;
+    public Vector3 restScale;
 
-	private IEnumerator MoveToScale(Vector3 _target)
+    private IEnumerator MoveToScale(Vector3 _target)
 	{
 		Vector3 _curr = transform.localScale;
 		Vector3 _initial = _curr;
@@ -12,7 +15,9 @@ public class _audioObjectScaler : _audioSync {
 
 		while (_curr != _target)
 		{
-			_curr = Vector3.Lerp(_initial, _target, _timer / timeToBeat);
+			_curr = Vector3.Lerp(_initial, _target
+                , _timer / timeToBeat);
+
 			_timer += Time.deltaTime;
 			transform.localScale = _curr;
 			yield return null;
@@ -27,17 +32,20 @@ public class _audioObjectScaler : _audioSync {
 
 		if (m_isBeat) return;
 
-		transform.localScale = Vector3.Lerp(transform.localScale, restScale, restSmoothTime * Time.deltaTime);
+		transform.localScale = Vector3.Lerp(transform.localScale
+            , restScale
+            , restSmoothTime * Time.deltaTime);
 	}
 
 	public override void OnBeat()
 	{
 		base.OnBeat();
+        //random color change
+        base.GetComponent<Renderer>().material.color = Color.HSVToRGB(Random.value, 1, 1);
 
 		StopCoroutine("MoveToScale");
 		StartCoroutine("MoveToScale", beatScale);
 	}
 
-	public Vector3 beatScale;
-	public Vector3 restScale;
+	
 }

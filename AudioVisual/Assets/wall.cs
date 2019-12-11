@@ -4,16 +4,33 @@ using UnityEngine;
 
 public class wall : MonoBehaviour
 {
+    public GameObject cube;
+
+    public int width = 20;
+    public int height = 20;
     // Start is called before the first frame update
     void Start()
     {
-        for (int y = 0; y < 20; y++)
+        int halfWidth = width / 2;
+
+        for (int j = 0; j < height; j++)
         {
-            for (int x = 0; x < 20; x++)
+            for (int i = -halfWidth; i < halfWidth; i++)
             {
-                GameObject cube = GameObject.CreatePrimitive(PrimitiveType.Cube);
-                cube.AddComponent<Rigidbody>();
-                cube.transform.position = new Vector3(0, 3, 0);
+                Vector3 pos = transform.TransformPoint(new Vector3(i, 0.5f + j, 0));
+
+
+                //GameObject cube = GameObject.CreatePrimitive(PrimitiveType.Cube);
+                cube.transform.position = pos;
+                cube.transform.rotation = transform.rotation;
+
+                cube.GetComponent<Renderer>().material.color =
+                    Color.HSVToRGB(Random.value, 1, 1);
+
+                cube.transform.parent = this.transform; // Parenting
+
+                //cube.AddComponent<Rigidbody>();
+
             }
         }
     }
@@ -21,6 +38,6 @@ public class wall : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 }
