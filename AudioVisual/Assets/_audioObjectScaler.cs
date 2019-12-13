@@ -41,9 +41,9 @@ public class _audioObjectScaler : _audioSync
 	{
 		base.OnBeat();
         //random color change
-        base.GetComponent<Renderer>().material.color = Color.HSVToRGB(Random.value, 1, 1);
-
-		StopCoroutine("MoveToScale");
+        //base.GetComponent<Renderer>().material.color = Color.HSVToRGB(Random.value, 1, 1);
+        base.GetComponent<Renderer>().material.color = Color.yellow;
+        StopCoroutine("MoveToScale");
 		StartCoroutine("MoveToScale", beatScale);
 	}
 
