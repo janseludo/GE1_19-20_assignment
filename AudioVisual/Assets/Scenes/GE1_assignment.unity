@@ -167,7 +167,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -297,7 +297,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -315,7 +315,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -427,7 +427,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -445,7 +445,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -557,7 +557,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -575,7 +575,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -672,7 +672,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 12
+  beat: 12
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 1.2
@@ -797,7 +797,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 21
+  beat: 21
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2.1
@@ -909,7 +909,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -927,7 +927,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -1039,7 +1039,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -1057,7 +1057,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -1337,7 +1337,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -1355,7 +1355,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -1452,7 +1452,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 3
+  beat: 3
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.3
@@ -1578,7 +1578,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -1596,7 +1596,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -1708,7 +1708,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -1726,7 +1726,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -1967,7 +1967,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -1985,7 +1985,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -2097,7 +2097,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -2115,7 +2115,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -2227,7 +2227,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -2245,7 +2245,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -2363,7 +2363,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -2381,7 +2381,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -2493,7 +2493,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -2511,7 +2511,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -2623,7 +2623,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -2641,7 +2641,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -2752,7 +2752,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 18
+  beat: 18
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 1.8
@@ -2864,7 +2864,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: da1db2aa840d5594c8f48ad9ca8d4195, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 20
+  beat: 35
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 1.2
@@ -2882,7 +2882,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 12
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 1.2
@@ -3027,7 +3027,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -3045,7 +3045,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -3157,7 +3157,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -3175,7 +3175,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -3416,7 +3416,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -3434,7 +3434,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -3675,7 +3675,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -3693,7 +3693,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -3805,7 +3805,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -3823,7 +3823,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -3935,7 +3935,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -3953,7 +3953,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -4243,7 +4243,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -4261,7 +4261,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -4338,7 +4338,7 @@ GameObject:
   - component: {fileID: 652041909}
   - component: {fileID: 652041908}
   m_Layer: 0
-  m_Name: GameObjectAudio
+  m_Name: audioSource
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4513,7 +4513,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -4531,7 +4531,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -4643,7 +4643,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -4661,7 +4661,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -4778,7 +4778,7 @@ GameObject:
   - component: {fileID: 717445469}
   - component: {fileID: 717445468}
   m_Layer: 0
-  m_Name: GameObject (1)
+  m_Name: phylloBackground 137.5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4804,12 +4804,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 717445467}
-  m_LocalRotation: {x: -0, y: 0.0042458912, z: -0, w: 0.999991}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 349879161}
-  m_RootOrder: 4
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &741765753
 GameObject:
@@ -4858,7 +4858,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -4876,7 +4876,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -4988,7 +4988,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -5006,7 +5006,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -5118,7 +5118,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -5136,7 +5136,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -5248,7 +5248,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -5266,7 +5266,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -5378,7 +5378,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: da1db2aa840d5594c8f48ad9ca8d4195, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 20
+  beat: 35
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 1.2
@@ -5396,7 +5396,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 12
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 1.2
@@ -5587,7 +5587,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -5605,7 +5605,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -5717,7 +5717,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -5735,7 +5735,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -5846,7 +5846,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 30
+  beat: 30
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 3
@@ -5958,7 +5958,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -5976,7 +5976,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -6088,7 +6088,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -6106,7 +6106,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -6217,7 +6217,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 27
+  beat: 27
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2.7
@@ -6329,7 +6329,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -6347,7 +6347,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -6459,7 +6459,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -6477,7 +6477,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -6589,7 +6589,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -6607,7 +6607,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -6719,7 +6719,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -6737,7 +6737,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -6849,7 +6849,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -6867,7 +6867,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -6979,7 +6979,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -6997,7 +6997,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -7109,7 +7109,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -7127,7 +7127,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -7239,7 +7239,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -7257,7 +7257,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -7369,7 +7369,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -7387,7 +7387,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -7499,7 +7499,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -7517,7 +7517,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -7614,7 +7614,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 9
+  beat: 9
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.9
@@ -7740,7 +7740,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -7758,7 +7758,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -7870,7 +7870,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -7888,7 +7888,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -8000,7 +8000,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -8018,7 +8018,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -8130,7 +8130,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -8148,7 +8148,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -8260,7 +8260,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: da1db2aa840d5594c8f48ad9ca8d4195, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 20
+  beat: 35
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 1.2
@@ -8278,7 +8278,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 12
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 1.2
@@ -8390,7 +8390,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -8408,7 +8408,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -8520,7 +8520,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -8538,7 +8538,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -8656,7 +8656,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -8674,7 +8674,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -8786,7 +8786,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -8804,7 +8804,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -8915,7 +8915,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 24
+  beat: 24
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2.4
@@ -9027,7 +9027,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -9045,7 +9045,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -9157,7 +9157,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -9175,7 +9175,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -9287,7 +9287,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -9305,7 +9305,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -9417,7 +9417,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -9435,7 +9435,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -9547,7 +9547,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -9565,7 +9565,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -9677,7 +9677,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -9695,7 +9695,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -9807,7 +9807,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -9825,7 +9825,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -9937,7 +9937,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -9955,7 +9955,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -10066,7 +10066,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 15
+  beat: 15
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 1.5
@@ -10229,7 +10229,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 6
+  beat: 6
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.6
@@ -10355,7 +10355,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -10373,7 +10373,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -10485,7 +10485,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -10503,7 +10503,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -10615,7 +10615,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -10633,7 +10633,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -10745,7 +10745,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -10763,7 +10763,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -10875,7 +10875,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -10893,7 +10893,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -11005,7 +11005,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -11023,7 +11023,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -11264,7 +11264,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -11282,7 +11282,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -11394,7 +11394,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -11412,7 +11412,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -11524,7 +11524,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -11542,7 +11542,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -11654,7 +11654,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -11672,7 +11672,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -11784,7 +11784,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -11802,7 +11802,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -11914,7 +11914,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -11932,7 +11932,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -12044,7 +12044,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -12062,7 +12062,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -12174,7 +12174,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -12192,7 +12192,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -12304,7 +12304,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -12322,7 +12322,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -12434,7 +12434,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -12452,7 +12452,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -12564,7 +12564,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -12582,7 +12582,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -12694,7 +12694,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -12712,7 +12712,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -12824,7 +12824,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -12842,7 +12842,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -12954,7 +12954,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -12972,7 +12972,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -13084,7 +13084,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -13102,7 +13102,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -13214,7 +13214,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -13232,7 +13232,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -13344,7 +13344,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0472577d1ca268d458f6df23e1404994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 13
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 2
@@ -13362,7 +13362,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b51170395792a6d4d84fbaa89a769c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bias: 2
+  beat: 0
   timeStep: 0.15
   timeToBeat: 0.01
   restSmoothTime: 0.2
@@ -13555,6 +13555,11 @@ PrefabInstance:
       propertyPath: restSmoothTime
       value: 0.1
       objectReference: {fileID: 0}
+    - target: {fileID: 6312810211283699736, guid: 641310796dd3fed43830a57e4ec7e6df,
+        type: 3}
+      propertyPath: beat
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6312810211283699737, guid: 641310796dd3fed43830a57e4ec7e6df,
         type: 3}
       propertyPath: m_Name
@@ -13568,7 +13573,7 @@ PrefabInstance:
     - target: {fileID: 6312810211283699740, guid: 641310796dd3fed43830a57e4ec7e6df,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -10
+      value: -9.25
       objectReference: {fileID: 0}
     - target: {fileID: 6312810211283699740, guid: 641310796dd3fed43830a57e4ec7e6df,
         type: 3}
