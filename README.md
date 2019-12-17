@@ -14,12 +14,19 @@ The aim of this project is to create musical visualization through unity.
     PeerPlay audio visualiser tutorial
     [![Audio Visualization - Unity/C# Tutorial](https://i.ytimg.com/vi/Ri1uNPNlaVs/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDF-HhYZuD9SGcLWA1dJVIuf0Ffvw)](https://www.youtube.com/watch?v=Ri1uNPNlaVs&t=205s)
 
-[![Audio Visualization ](https://i9.ytimg.com/vi/ul392i4I1J0/mq2.jpg?sqp=CMv-5O8F&rs=AOn4CLAO4qo1hlwXMQWeP0LE3SCKLotntw)](https://www.youtube.com/watch?v=ul392i4I1J0&feature=youtu.be)
 
-https://youtu.be/Ri1uNPNlaVs
+
 
 *  What I am most proud of about the assignment
 > I love listening to music so I am looking forward in creating a music visualizer that will definitely express the emotions visually from the music and display them elegantly.
+
+* Youtube video link
+
+[![Audio Visualization ](https://i9.ytimg.com/vi/ul392i4I1J0/mq2.jpg?sqp=CMv-5O8F&rs=AOn4CLAO4qo1hlwXMQWeP0LE3SCKLotntw)](https://www.youtube.com/watch?v=ul392i4I1J0&feature=youtu.be)
+
+
+
+
 ***
 ### Similar project I want to create:
 by Oshin Redmond Game Procedural Music Visualiser
