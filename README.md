@@ -12,7 +12,7 @@ The aim of this project is to create musical visualization through unity.
   * Resources
     Bryan Duggan Audio Visualiser class
     PeerPlay audio visualiser tutorial
-    [![Audio Visualization - Unity/C# Tutorial](https://www.youtube.com/watch?v=Ri1uNPNlaVs&t=205s)
+    [![Audio Visualization - Unity/C# Tutorial](https://img.youtube.com/vi/<https://www.youtube.com/watch?v=Ri1uNPNlaVs&t=205s>/sddefault.jpg)(https://www.youtube.com/watch?v=Ri1uNPNlaVs&t=205s)
 
 
 *  What I am most proud of about the assignment
