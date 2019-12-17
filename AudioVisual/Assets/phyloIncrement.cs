@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class phyloIncrement : MonoBehaviour
 {
-   
+
     public GameObject _object;         //instantiate a game object
     private float _degree = 137.5f;    // degree
-    private float _scale =  5f;        //scale
+    private float _scale = 5f;        //scale
     private int _posiiton = 1;         //number
     private float _dotScale = 0;       //scale of the gameobject
 
@@ -30,17 +30,18 @@ public class phyloIncrement : MonoBehaviour
 
 
 
-    private void Start(){
+    private void Start()
+    {
 
     }
 
     void Update()
-    { 
-            _phyllotaxisPosition = CalculatePhyllotaxis(_degree, _scale, _posiiton);
-            GameObject _objectInstance = (GameObject)Instantiate(_object);
-            _objectInstance.transform.position = new Vector3(_phyllotaxisPosition.x, _phyllotaxisPosition.y, 0);
-            _objectInstance.transform.localScale = new Vector3(_dotScale, _dotScale, _dotScale);
+    {
+        _phyllotaxisPosition = CalculatePhyllotaxis(_degree, _scale, _posiiton);
+        GameObject _objectInstance = (GameObject)Instantiate(_object);
+        _objectInstance.transform.position = new Vector3(_phyllotaxisPosition.x, _phyllotaxisPosition.y, 0);
+        _objectInstance.transform.localScale = new Vector3(_dotScale, _dotScale, _dotScale);
 
-            _posiiton++;
+        _posiiton++;
     }
 }

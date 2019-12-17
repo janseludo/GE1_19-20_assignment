@@ -41,8 +41,8 @@ public class _audioLight_color : _audioSync
     {
         base.OnBeat();
         //random color change
-        //base.GetComponent<Renderer>().material.color = Color.HSVToRGB(Random.value, 1, 1);
-        base.GetComponent<Renderer>().material.color = Color.yellow;
+        base.GetComponent<Renderer>().material.color = Color.HSVToRGB(Random.value, 1, 1);
+        //base.GetComponent<Renderer>().material.color = Color.yellow;
         StopCoroutine("MoveToScale");
         StartCoroutine("MoveToScale", beatScale);
     }
